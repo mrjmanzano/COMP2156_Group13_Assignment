@@ -1,1 +1,4 @@
-Learning DevOps in the software development cycle is incredibly important for several reasons. 
+Learning DevOps in the software development cycle is incredibly important for several reasons. DevOps is a set of practice
+that brings together software development (Dev) and IT operations (Ops) to improve collaboration and productivity. DevOps 
+enable continuous integration and delivery (CI/CD), leading to quicker realease cycle and faster time-to-market. It encourages 
+cross-functional collaboration, reducing friction between development and operations teams.
