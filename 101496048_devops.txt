@@ -1,1 +1,1 @@
-Information about the COMP 3104 DevOps course. This is a Devops course at George Brown College.
+Information about the COMP 3104 DevOps course. This is a Devops course at George Brown College. It covers CI/CD pipelines, infrastructure automation, and cloud deployment.
