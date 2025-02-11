@@ -27,3 +27,6 @@ benefits of cloud computing to deploy a software product.
 8. Identify the market and opportunities for a DevOps Engineer to Effectively develop & integrate
 security practices into the software development cycle and CI/CD pipelines.
 
+Recommended Resources
+ DevOps: A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming [Bass etc.)
+Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl Matthias)
