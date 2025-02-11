@@ -7,8 +7,8 @@ runs-on: ubuntu-latest
 steps:
 - run: echo🎉 " The job was automatically triggered by a ${{ github.event_name }} event."
 - run: echo🐧 " This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-- run: echo🔎 " The name of your branch is ${{ github.ref }} and your repository is ${{
-github.repository }}."
+- run: echo🔎 " The name of your branch is ${{ COMP2156_Group13_Assignment }} and your repository is ${{
+https://github.com/mrjmanzano/COMP2156_Group13_Assignment }}."
 - name: Check out repository code
 uses: actions/checkout@v4
 - run: echo "
