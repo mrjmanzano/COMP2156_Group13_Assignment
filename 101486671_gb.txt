@@ -3,9 +3,17 @@ George Brown College (GBC) is a public college of applied arts and technology lo
 Key Facts About George Brown College:
 Campuses:
 
-St. James Campus – Business, hospitality, arts, and community services programs.
-Casa Loma Campus – Construction, engineering, technology, and skilled trades programs.
-Waterfront Campus – Health sciences and nursing programs.
+🔹 St. James Campus (Downtown Toronto)
+Houses business, hospitality, and creative arts programs.
+Home to The Chefs’ House, a student-run restaurant.
+Features state-of-the-art digital media labs and design studios.
+🔹 Casa Loma Campus (Midtown Toronto)
+Focuses on engineering, technology, construction, and skilled trades.
+Includes construction labs, an innovation center, and workshops.
+🔹 Waterfront Campus (Near Lake Ontario)
+Dedicated to health sciences, nursing, and dental programs.
+Features advanced simulation labs for healthcare training.
+Home to the Centre for Health Sciences.
 Notable Programs:
 
 Computer System Technician (CST)
