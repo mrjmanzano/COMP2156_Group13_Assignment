@@ -3,4 +3,4 @@ The course is part of a comprehensive program that provides training in programm
 The course includes practical assignments where students set up environments using tools like Jenkins, Docker, and Git. For instance, an assignment might involve creating an AWS Ubuntu instance and installing these tools to establish a CI/CD pipeline. 
 COURSESIDEKICK.COM
 
-To enroll in COMP 3104, students must have completed COMP 2154 – System Development Project, which serves as a prerequisite
+To enroll in COMP 3104, students must have completed COMP 2154 – System Development Project, which serves as a prerequisite. 
