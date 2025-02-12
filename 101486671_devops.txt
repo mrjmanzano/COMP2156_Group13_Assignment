@@ -8,3 +8,4 @@ For more detailed information about the course content and structure, you can re
 If you're interested in the broader context of the program, the Computer Programming and Analysis (T177) program offers comprehensive training in programming and IT analysis, preparing graduates for various roles in the IT industry. 
 Instructor Insights:
 The course is taught by Professor Pritesh Patel, who is known for introducing a variety of tools to provide a comprehensive understanding of DevOps practices.
+This course is designed to equip students with practical skills in DevOps, preparing them for roles that require efficient and automated software development and deployment processes.
