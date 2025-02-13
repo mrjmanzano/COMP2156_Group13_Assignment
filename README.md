@@ -1,7 +1,7 @@
 # COMP2156_Group13_Assignment
 ## Group Members
 - **Leader:** Jayson Manzano (101491395) - [GitHub](https://github.com/mrjmanzano)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Veer Tanveer (101486671) - [GitHub](https://github.com/veertanveer)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
