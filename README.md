@@ -7,9 +7,6 @@
 - **Member 5:** Prakanda lama (101495494) - [Github](https://github.com/maybeprakand)
 - **Member 6:** Bipin-T (101496048) - [Github](https://github.com/Bipin-T)
 
-- **Member 4:** Prakanda Lama (10195494) - [GitHub](https://github.com/maybeprakand)
-- **Member 5:** Bipin Tharu (101496048) - [GitHub](https://github.com/Bipin-T)
-
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
