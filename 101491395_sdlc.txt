@@ -4,4 +4,4 @@ enable continuous integration and delivery (CI/CD), leading to quicker realease 
 cross-functional collaboration, reducing friction between development and operations teams. DevOps automates repetitive tasks like
 testing and deployment, allowing teams to focus more on high-value work. Early automated ensures higher-quality code and more stable software.
 DevOps practices help businesses scale infrastrature quickly and adapt to changing needs. Automation reduces manual work, optimizing resource and lowering costs.
-Faster updates and more reliable software improves user experience. 
+Faster updates and more reliable software improves user experience. # Just adding some text here 
