@@ -1,0 +1,6 @@
+The course is part of a comprehensive program that provides training in programming and IT analysis. While specific details about the course content are not provided in the search results, we can infer that it likely covers key DevOps concepts and practices based on its inclusion in an advanced diploma program.In COMP 3104, students delve into the principles and practices of DevOps, focusing on the integration and automation of software development and IT operations. The curriculum emphasizes continuous integration and continuous deployment (CI/CD) pipelines, infrastructure as code, and monitoring and logging practices to enhance software quality and delivery speed.
+
+The course includes practical assignments where students set up environments using tools like Jenkins, Docker, and Git. For instance, an assignment might involve creating an AWS Ubuntu instance and installing these tools to establish a CI/CD pipeline. 
+COURSESIDEKICK.COM
+
+To enroll in COMP 3104, students must have completed COMP 2154 – System Development Project, which serves as a prerequisite

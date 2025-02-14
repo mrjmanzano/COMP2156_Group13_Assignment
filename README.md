@@ -2,7 +2,7 @@
 ## Group Members
 - **Leader:** Jayson Manzano (101491395) - [GitHub](https://github.com/mrjmanzano)
 - **Member 2:** Veer Tanveer (101486671) - [GitHub](https://github.com/veertanveer)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 3:** Thant Zin Win (101494060) - [GitHub](https://github.com/thantzinlong)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
