@@ -4,6 +4,7 @@
 - **Member 2:** Veer Tanveer (101486671) - [GitHub](https://github.com/veertanveer)
 - **Member 3:** Thant Zin Win (101494060) - [GitHub](https://github.com/thantzinlong)
 - **Member 4:** Prakanda Lama (10195494) - [GitHub](https://github.com/maybeprakand)
+- **Member 5:** Bipin Tharu (101496048) - [GitHub](https://github.com/Bipin-T)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
