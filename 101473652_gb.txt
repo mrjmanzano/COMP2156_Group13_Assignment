@@ -1,1 +1,9 @@
-Information about COMP3104 Devops course
+                                 Information about COMP3104 Devops course
+A DevOps course offers a comprehensive introduction to the practices and tools that enable seamless collaboration between software development (Dev) 
+and IT operations (Ops). The course typically covers key concepts like continuous integration/continuous deployment (CI/CD), version control, automation,
+ and infrastructure as code. It delves into popular tools such as Jenkins, Docker, Kubernetes, and Git, allowing participants to understand how to streamline
+  the software development lifecycle.
+Participants will learn how to build automated pipelines, monitor system performance, and ensure scalable and reliable software releases. DevOps emphasizes a
+ culture of collaboration, agility, and shared responsibility for the entire software lifecycle, from development through to operations and maintenance.
+By completing a DevOps course, professionals gain the skills needed to improve operational efficiency, reduce manual errors, and accelerate software delivery. 
+It's an ideal path for those seeking to stay ahead in today’s fast-paced IT environment, enhancing both technical and collaborative abilities.
