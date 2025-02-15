@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COMP2156_Group13_Assignment
 ## Group Members
 - **Leader:** Jayson Manzano (101491395) - [GitHub](https://github.com/mrjmanzano)
@@ -21,3 +22,6 @@ in `.github/workflows/ci.yml`.
 Each member has their own branch named `STUDENTID-Name`. All changes are
 merged into the `main` branch via Pull Requests.
 
+=======
+# COMP2156_Group13_Assignment
+>>>>>>> 101491395-Jayson
