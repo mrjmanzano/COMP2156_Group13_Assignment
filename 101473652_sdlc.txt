@@ -6,22 +6,4 @@ helps developers and operations teams work together more efficiently.
  This can lead to delays and communication issues. DevOps changes 
  this by promoting teamwork, where both teams collaborate closely 
  throughout the entire process.
-        Established in 1967, the college provides students with a
-combination of theoretical knowledge and practical experience,
-including co-op placements, internships, and hands-on training.
- GBC’s campuses, including the St. James and Waterfront campuses,
-are strategically located in downtown Toronto, providing students
-with access to a vibrant, dynamic city. The college is committed 
-to fostering innovation, diversity, and student success, making it
-a top choice for local and international learners.
- It involves several stages to ensure that software is built efficiently
-  and meets user needs. The first stage is planning, where the goals, 
-  requirements, and timeline of the project are defined. Next is design,
-   where the system’s structure and features are planned out. In the development phase,
-    developers write the actual code based on the design. After development, the software
-     undergoes testing to check for bugs and ensure everything works as expected.
-      Once testing is complete, the software is deployed to users. Finally, during the
-       maintenance phase, the software is updated and improved based on user feedback, 
-       and any issues are fixed. SDLC ensures a systematic approach to software creation,
-        helping teams deliver quality products on time and within budget.
  
