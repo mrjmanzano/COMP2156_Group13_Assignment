@@ -6,3 +6,4 @@ helps developers and operations teams work together more efficiently.
  This can lead to delays and communication issues. DevOps changes 
  this by promoting teamwork, where both teams collaborate closely 
  throughout the entire process.
+ 
