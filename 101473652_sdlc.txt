@@ -6,4 +6,12 @@ helps developers and operations teams work together more efficiently.
  This can lead to delays and communication issues. DevOps changes 
  this by promoting teamwork, where both teams collaborate closely 
  throughout the entire process.
+        Established in 1967, the college provides students with a
+combination of theoretical knowledge and practical experience,
+including co-op placements, internships, and hands-on training.
+ GBC’s campuses, including the St. James and Waterfront campuses,
+are strategically located in downtown Toronto, providing students
+with access to a vibrant, dynamic city. The college is committed 
+to fostering innovation, diversity, and student success, making it
+a top choice for local and international learners.
  
