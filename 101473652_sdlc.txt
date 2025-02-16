@@ -1,0 +1,9 @@
+Importance of learning Devops in the software development cycle
+Learning DevOps is important in software development because it 
+helps developers and operations teams work together more efficiently.
+ In traditional software development, developers build the software, 
+ and then operations teams handle its deployment and maintenance. 
+ This can lead to delays and communication issues. DevOps changes 
+ this by promoting teamwork, where both teams collaborate closely 
+ throughout the entire process.
+ 
